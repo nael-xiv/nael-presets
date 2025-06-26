@@ -2,11 +2,11 @@
 FFXIV gameplay/gpose presets made by Nael Wynn. 
 
 Required Dependencies include:
-GPOSINGWAY: https://github.com/gposingway/gposingway
+[GPOSINGWAY](https://github.com/gposingway/gposingway)
 
-iMMERSE by MartysMods: https://github.com/martymcmodding/iMMERSE
+[iMMERSE](https://github.com/martymcmodding/iMMERSE) by MartysMods
 
-Optional addons (VanillaEnhance T2): https://www.patreon.com/c/mcflypg/home
+[iMMERSE PRO](https://www.patreon.com/c/mcflypg/home) by MartysMods (Optional, VanillaEnhance T2 only.)
 
 ## Changelog
 ### 01/06/2025
