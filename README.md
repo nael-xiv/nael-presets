@@ -10,7 +10,7 @@ Required Dependencies include:
 
 ## Changelog
 ### 01/06/2025
-### Nael Presets 2025 June Update
+## Nael Presets 2025 June Update
 
 Changes to naelgpose, adjustments to bloom settings for better compatibility.
 
