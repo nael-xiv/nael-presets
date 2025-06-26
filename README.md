@@ -1,5 +1,5 @@
 # nael-presets
-FFXIV gameplay/gpose presets made by Nael Wynn. 
+FFXIV gameplay/gpose presets made by Nael Wynn.
 
 Required Dependencies include:
 [GPOSINGWAY](https://github.com/gposingway/gposingway)
@@ -10,8 +10,7 @@ Required Dependencies include:
 
 ## Changelog
 ### 01/06/2025
-
-Nael Presets 2025 June Update
+### Nael Presets 2025 June Update
 
 Changes to naelgpose, adjustments to bloom settings for better compatibility.
 
@@ -24,8 +23,13 @@ VanillaEnhance T2 (iMMERSE Pro recommended)
 
 The newest addition to the family includes my personal daily driver, based on VanillaEnhance T1. This version includes a subtle MagicHDR bloom, and iMMERSE Pro Clarity. This version is more performance-demanding than the other presets, but serves as my latest version in enhancing the game's vanilla colours.
 
-This presets requires a paid iMMERSE Pro shader to function, but it is completely optional.
+This presets requires a paid iMMERSE Pro shader to function fully, but it is completely optional.
 
+## Preset previews
+
+Duty gameplay videos using naelgameplay series on my [YouTube](https://www.youtube.com/@nael-is-not-wynning/videos) (in chronological order)
+
+GPOSE images using naelgpose on my [Twitter](https://x.com/naelwynn_xiv)
 
 
 ## Preset Information
