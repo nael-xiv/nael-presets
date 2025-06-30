@@ -13,21 +13,37 @@ Required Dependencies include:
 [iMMERSE PRO](https://www.patreon.com/c/mcflypg/home) by MartysMods (Optional, VanillaEnhance T2 only.)
 
 ## Changelog
-### 01/06/2025
-**Nael Presets 2025 June Update**
+### 01/07/2025
+**Nael Presets 2025 July Update**
 
-Changes to naelgpose, adjustments to bloom settings for better compatibility.
+Fixes to current line-up.
 
-VanillaEnhance is now VanillaEnhance T1, for consistency in naming conventions for the new VanillaEnhance T2.
+naelgameplay T2
+
+- Removed DLAA, reverted to CMAA anti-aliasing.
+- Added pd80 color temperature from VanillaEnhance.
+- Adjusted LUT values.
+- Adjusted Gamma.
+
+naelgpose
+
+- Added pd80 color temperature, enhancing the game's colours in a similar way to the VanillaEnhance series.
+- Added options for CinematicDOF (toggle as needed)
+- Added EyeAdaption (NEW) - Balances out midtones/highlights within a range based on current image exposure.
+
+VanillaEnhance T2, naelgpose
+
+- Adjusted MagicHDR (Bloom) values.
 
 
-Added: 
+Added:
 
-VanillaEnhance T2 (iMMERSE Pro recommended)
+VanillaEnhance EXPERIMENTAL
 
-The newest addition to the family includes my personal daily driver, based on VanillaEnhance T1. This version includes a subtle MagicHDR bloom, and iMMERSE Pro Clarity. This version is more performance-demanding than the other presets, but serves as my latest version in enhancing the game's vanilla colours.
+-  EyeAdaption added to the VanillaEnhance preset.
 
-This presets requires a paid iMMERSE Pro shader to function fully, but it is completely optional.
+I initially enjoyed the balanced look this shader gives to my gameplay lineup, keeping scenes nicely exposed across many areas, potentially helping the game be less glaring/dark, however it can make the differences between dark and light scenes flatter. 
+
 
 # Preset previews
 
@@ -52,8 +68,7 @@ The original preset I created, this makes use of a LUT file in order to correct 
 ## naelgameplay T2
 ![2025-06-27 00-38-32 Nael - naelgameplay T2 ffxiv_dx11](https://github.com/user-attachments/assets/fb9045e8-3828-4a98-90cb-17a75e79416b)
 
-I created this version with lesser LUT correction strength, to let some of the game's original colour through. This version uses Directionally Localized Anti Aliasing as additional anti-aliasing.
-
+I created this version with lesser LUT correction strength, to let some of the game's original colour through. 
 
 ## VanillaEnhance T1
 ![2025-06-27 00-38-40 Nael - VanillaEnhance T1 ffxiv_dx11](https://github.com/user-attachments/assets/d1d6de33-1646-4b2d-bf77-b5c9d43e97ad)
