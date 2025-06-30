@@ -14,7 +14,7 @@ Required Dependencies include:
 
 ## Changelog
 ### 01/07/2025
-**Nael Presets 2025 July Update**
+**Nael Presets 2025 July Update [v1.2]**
 
 Fixes to current line-up.
 
