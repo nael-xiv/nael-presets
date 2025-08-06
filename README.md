@@ -13,37 +13,28 @@ Required Dependencies include:
 [iMMERSE PRO](https://www.patreon.com/c/mcflypg/home) by MartysMods (Optional, VanillaEnhance T2 only.)
 
 ## Changelog
-### 01/07/2025
-**Nael Presets 2025 July Update [v1.2]**
+### 07/08/2025
+**Nael Presets 2025 August Update [v1.3]**
 
 Fixes to current line-up.
 
+Removed Reshade Anti-Aliasing Shaders from all affected presets.
+
+Replaced Glamrye_Fast_Effects with AMD FidelityFX Contrast Adaptive Sharpening from all affected presets.
+
 naelgameplay T2
 
-- Removed DLAA, reverted to CMAA anti-aliasing.
-- Added pd80 color temperature from VanillaEnhance.
-- Adjusted LUT values.
-- Adjusted Gamma.
+- Adjusted prod80_ColorTemperature values.
 
-naelgpose
+VanillaEnhance T1
 
-- Added pd80 color temperature, enhancing the game's colours in a similar way to the VanillaEnhance series.
-- Added options for CinematicDOF (toggle as needed)
-- Added EyeAdaption (NEW) - Balances out midtones/highlights within a range based on current image exposure.
+- Adjusted prod80_ColorTemperature values.
 
-VanillaEnhance T2, naelgpose
+VanillaEnhance T2
 
-- Adjusted MagicHDR (Bloom) values.
-
-
-Added:
-
-VanillaEnhance EXPERIMENTAL
-
--  EyeAdaption added to the VanillaEnhance preset.
-
-I initially enjoyed the balanced look this shader gives to my gameplay lineup, keeping scenes nicely exposed across many areas, potentially helping the game be less glaring/dark, however it can make the differences between dark and light scenes flatter. 
-
+- Adjusted prod80_ColorTemperature values.
+- Restored some LUT correction.
+- Adjusted iMMERSE Clarity Values.
 
 # Preset previews
 
